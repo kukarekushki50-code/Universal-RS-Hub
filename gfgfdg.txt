@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rostickk/Universal-RS-Hub/main/Universal_RS_Hub.lua"))()
